@@ -7,7 +7,7 @@
 
 <p>
    <a href="https://piply-psi.vercel.app/">
-    <img src="https://iili.io/F6rIpIt.md.png" alt="Piply" width="300"  />
+    <img src="https://iili.io/F6rRwuV.md.png" alt="Piply" width="300"  />
   </a>
   <a href="https://menning.vercel.app/">
     <img src="https://iili.io/2E3q8bI.md.png" alt="Petpy" width="300"  />
