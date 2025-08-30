@@ -24,12 +24,6 @@
    <a href="https://brand-page-mish.vercel.app/">
     <img src="https://iili.io/2Fzx022.md.png" alt="Mish Brand Page" width="300"  />
   </a>
-  <a href="https://foodmish.vercel.app/?kategori=tumu">
-    <img src="https://iili.io/2Fzxe2V.md.png" alt="Foodmish" width="300"  />
-  </a>
-  <a href="https://statu-foodyar.vercel.app/">
-    <img src="https://iili.io/2FzxkYB.md.png" alt="Statu Foodyar" width="300" />
-  </a>
 </p>
 
 > **Projects(images and clickable) are sorted as new > old.**
