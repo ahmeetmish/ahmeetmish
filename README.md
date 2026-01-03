@@ -6,7 +6,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express)
 
 <p>
-   <a href="https://piply-psi.vercel.app/">
+   <a href="https://piply-akilli-takip.vercel.app/">
     <img src="https://iili.io/F6ro7Wb.md.png" alt="Piply" width="300"  />
   </a>
   <a href="https://menning.vercel.app/">
